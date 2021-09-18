@@ -1,4 +1,4 @@
-# Queue_Management
+# Vehicle_Queue_Management
 
 Checkout the PROJECT_REPORT.pdf for details about the mechanism.
 
